@@ -1,0 +1,8 @@
+Programar é o processo de quebrar uma tarefa grande e complexa em subtarefas cada vez menores, até que estas sejam simples o suficiente para serem executadas por uma dessas instroções.
+
+Resolução de problemas:
+    O processo de formular um problema, encontrar uma solução e expressá-la.
+
+Programa:
+    Conjunto de isntruções que especifiquem uma operação de computação.
+    
